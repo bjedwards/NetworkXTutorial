@@ -11,10 +11,10 @@ python >= 2.7
  Jupyter >= 1.0
  ipython >= 4.0
  
- # Intended Use
+# Intended Use
  
- The tutorial is meant to be used in a classroom setting, with the tutorial leader going through the examples with the students, then having students try the exercises on their own. It is originally planned to last about 4 hours.
+The tutorial is meant to be used in a classroom setting, with the tutorial leader going through the examples with the students, then having students try the exercises on their own. It is originally planned to last about 4 hours.
  
- # Exercise Solutions
+# Exercise Solutions
  
- After the tutorial, I'll upload solutions to all the exercises.
+After the tutorial, I'll upload solutions to all the exercises.
